@@ -1,0 +1,34 @@
+
+    div
+    {
+      color: white;
+     margin: auto 500px;
+     background-color: blue;
+     padding: 10px 150px;
+     margin: 50px;
+
+     box-shadow: 10px 10px
+     10px 10px red;
+    }
+
+    a
+    {
+      text-decoration: none;
+      color: red;
+      font-size: 100px;
+      display: inline-block;
+      border-bottom: 0.5px solid transparent;
+      transition: 1s ease;
+      border-bottom-color 2s ease-in;
+    }
+    a:hover
+    {
+      border-bottom-color: red;
+      font-size: 50px;
+    }
+
+    img
+    {
+      hight: 20%;
+
+    }
